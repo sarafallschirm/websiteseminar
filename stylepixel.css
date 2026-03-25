@@ -17,6 +17,9 @@ body{
 #Zahnbürste2{
     width: 50%;
 }
+#Hummeln{
+    width:50%;
+}
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
