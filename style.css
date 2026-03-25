@@ -5,7 +5,10 @@ p{
     color:whitesmoke;
     font-size: 10vw;
     font-family: myfont ;
-    position: center;
+    text-align:center;
+    
+    
+
 }
 
 @font-face {
