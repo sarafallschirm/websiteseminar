@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+p1{
+    color:whitesmoke;
+    font-size: 5vw;
+    font-family: myfont ;
+    text-align:top left;
+    position: relative;
+    left:25%;
+   
+}
+p2{
+    color:whitesmoke;
+    font-size: 5vw;
+    font-family: myfont ;
+    text-align:top right;
+    position: relative;
+    left: 50%;
+    
+}
+
+@font-face {
+    font-family: myfont;
+    src: url(./fonts/BebasNeue-Regular.ttf);
+}
