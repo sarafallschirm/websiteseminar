@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+p{
+    color:whitesmoke;
+    font-size: 10vw;
+    font-family: myfont ;
+    position: center;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url(./fonts/BebasNeue-Regular.ttf);
+}
