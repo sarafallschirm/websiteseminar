@@ -1,5 +1,21 @@
 body{
     background-color: black;
+
+}
+#Bild3 {
+    width: 50%;
+}
+#Bild5{
+    width:50%;
+}
+#Bild6{
+    width:50%;
+}
+#Textbild{
+    width:50%;
+}
+#Zahnbürste2{
+    width: 50%;
 }
 @font-face {
     font-family: myfont;
