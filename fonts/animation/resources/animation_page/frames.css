@@ -1,0 +1,23 @@
+
+body{
+    overflow: hidden;
+    background-color: black;
+}
+
+#frame_container{
+
+
+    width:30vw;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    
+
+
+}
+
+#frame{
+
+    height:30vh;
+
+}

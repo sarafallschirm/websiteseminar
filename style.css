@@ -6,12 +6,17 @@ p{
     font-size: 10vw;
     font-family: myfont ;
     text-align:center;
+
     
     
 
+}
+p:hover{
+    color: ;
 }
 
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
 }
+

@@ -20,7 +20,20 @@ body{
 #Hummeln{
     width:50%;
 }
+p{
+    color: whitesmoke;
+    font-size: 3vw;
+    font-family: myfont;
+    text-align: right;
+
+    position: fixed;
+}
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
+}
+@media(orientation: portrait){
+    #Bild3{
+        widht:100vw;
+    }
 }
