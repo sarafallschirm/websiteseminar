@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:  rgb(35, 35, 35);
 
 }
 
@@ -15,11 +15,30 @@ body{
 }
 p{
     color: whitesmoke;
-    font-size: 3vw;
+    font-size: 6vw;
     font-family: myfont;
     text-align: right;
     position: fixed;
-    left: 70%;
+    left: 55%;
+    
+
+}
+p1{
+    color: whitesmoke;
+    font-size: 6vw;
+    font-family: myfont;
+    text-align: right;
+    position: relative;
+   left: 40%;
+
+}
+p2{
+    color: whitesmoke;
+    font-size: 6vw;
+    font-family: myfont;
+    text-align: right;
+    position: relative;
+    left: 40%;
 
 }
 
