@@ -2,15 +2,8 @@ body{
     background-color: black;
 
 }
-#Bild3 {
-    width: 50%;
-}
-#Bild5{
-    width:50%;
-}
-#Bild6{
-    width:50%;
-}
+
+
 #Textbild{
     width:50%;
 }
@@ -25,9 +18,8 @@ p{
     font-size: 3vw;
     font-family: myfont;
     text-align: right;
+     position: fixed;
 
-    position: fixed;
-}
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);

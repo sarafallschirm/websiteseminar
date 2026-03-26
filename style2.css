@@ -7,7 +7,7 @@ p1{
     font-family: myfont ;
     text-align:top left;
     position: relative;
-    left:25%;
+    left:30%;
    
 }
 p2{
@@ -17,6 +17,15 @@ p2{
     text-align:top right;
     position: relative;
     left: 50%;
+    
+}
+p3{
+    color:whitesmoke;
+    font-size: 5vw;
+    font-family: myfont ;
+    text-align:top right;
+    position: relative;
+    left: 10%;
     
 }
 
