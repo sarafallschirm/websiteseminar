@@ -19,6 +19,10 @@ p2{
     position: fixed;
     left: 60%;
 }
+#Kreis{
+    width:10%;
+}
+
 
 @font-face {
     font-family: myfont;

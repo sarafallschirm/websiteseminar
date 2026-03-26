@@ -11,10 +11,24 @@ p{
     
 
 }
+p2{
+    color:whitesmoke;
+    font-size: 8vw;
+    font-family: myfont ;
+    text-align:center;
+
+    
+    
+
+}
 p:hover{
     color: ;
 }
 
+#Kreis{
+    width:10%;
+    
+}
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);

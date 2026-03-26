@@ -4,11 +4,6 @@ body{
 }
 
 
-#Textbild{
-    width:50%;
-}
-#Zahnbürste2{
-    width: 50%;
 }
 #Hummeln{
     width:50%;
@@ -42,13 +37,13 @@ p2{
 
 }
 
+#Kreis{
+    width: 10%;
+}
 
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
 }
-@media(orientation: portrait){
-    #Bild3{
-        widht:100vw;
-    }
-}
+
+  

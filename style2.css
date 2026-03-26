@@ -29,6 +29,9 @@ p3{
     
 }
 
+#Kreis{
+    width:10%;
+}
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
