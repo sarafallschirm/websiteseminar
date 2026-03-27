@@ -26,6 +26,22 @@ p3{
  
 }
 
+#Pfeil{
+    width:90%;
+    
+}
+div1 {
+
+  padding:10px;
+  display: inline-block;
+  position: absolute;
+  right:1%;
+  top: 70%;
+  
+
+}
+
+
 
 
 a:link{
