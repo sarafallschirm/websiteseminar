@@ -22,7 +22,9 @@ p2{
 #Kreis{
     width:10%;
 }
-
+a:link{
+    text-decoration: none;
+}
 
 @font-face {
     font-family: myfont;
