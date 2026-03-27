@@ -69,6 +69,30 @@ p3{
     display: flex;
 }
 
+#Pfeil{
+    width:90%;
+    
+}
+div1 {
+
+  padding:10px;
+  display: inline-block;
+  position: absolute;
+  right:1%;
+  top: 70%;
+  
+
+}
+div2 {
+   
+  display: inline-block;
+  position:absolute;
+  left:1%;
+  top:170%;
+  
+
+}
+
 @font-face {
     font-family: myfont;
     src: url(./fonts/BebasNeue-Regular.ttf);
